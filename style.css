@@ -1,0 +1,94 @@
+
+
+
+body{
+    padding: 0;
+    margin: 0 ;
+    overflow-x: hidden;
+    font-family: fredoka;
+}
+
+section{
+    margin-bottom: 2rem;
+}
+
+nav img{
+    width: 35px;
+}
+
+nav{
+    margin: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+section h4{
+    text-align: center;
+    text-transform: capitalize;
+    color: dodgerblue;
+}
+
+section h5{
+    text-align: center;
+    text-transform: capitalize;
+    color: red;
+}
+section p{
+    padding: 2rem;
+}
+
+.home img{
+    width: 70px;
+}
+
+.home h3{
+    font-weight: bolder;
+    color: red;
+}
+
+
+.home{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    margin:  0 auto;
+    padding-top: 5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+
+.home1{
+    padding-top: 3rem;
+}
+
+
+.home1 img{
+    width: 100%;
+}
+
+.write{
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.write1 a{
+    text-decoration: none;
+
+}
+
+
+.write1 button{
+  margin: 0 auto;
+  display: block;
+}
+
+.about{
+    text-align: center;
+}
+
+.icons{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
